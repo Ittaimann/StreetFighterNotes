@@ -8,6 +8,10 @@
 
 # matchups
 
+## marissa
+- post gladius parry lp grab
+- avoid di
+
 # tech 
 
 - don't complete the anti air hp target combo at midscreen. You get more space + the oki is better/ more readabl except for command grabs
